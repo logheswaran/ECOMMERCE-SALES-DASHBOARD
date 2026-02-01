@@ -27,7 +27,7 @@ The dashboard provides insights into sales performance, product categories, paym
 - A small group of customers contributes significantly to total revenue
 
 ## Screenshots
-![Dashboard Overview](screenshots/Dashboard.png)
+![Dashboard Overview](ScreenShots/Dashboard.png)
 
 ## How to Use
 1. Download the `.pbix` file from the dashboard folder
